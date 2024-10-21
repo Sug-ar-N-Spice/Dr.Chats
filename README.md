@@ -1,7 +1,7 @@
 # Dr. Chats
 
 #### DISCLAIMER - This is a Beta test bot and not intended for Medical Diagnosis. Should you have any medical concerns, please contact your medical provider. 
-#### Q&A_Med_chat.ipynb is the main dataset 
+
 
 ## Overview
 Dr. Chats is an AI-driven chatbot that focuses on medical data analysis, specifically leveraging public datasets such as PubMed to provide insightful responses. It integrates AI techniques to help in healthcare, offering potential support for clinicians and researchers.
@@ -31,6 +31,9 @@ Follow the package requirements in the Jupyter Notebooks (e.g., via pip or conda
 ! pip install datasets
 ! pip install torch
 ```
+#### Model Optimization 
+
+New_Q&A_Med_chat.ipynb is the main notbook file. 
 
 #### Libraries 
 1. Hugging Face
