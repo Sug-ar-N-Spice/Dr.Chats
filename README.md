@@ -75,3 +75,9 @@ We welcome contributions to improve the features and capabilities of Dr. Chats. 
 ## Contact
 For questions or collaborations, please contact the maintainers via GitHub.
 
+* Ty - https://github.com/tyzwhitt
+* Jerome- https://github.com/exohuman 
+* Simon- https://github.com/Simonpnce57
+* Idowu- https://github.com/jubjam18
+* Patricia - https://github.com/Sug-ar-N-Spice
+
