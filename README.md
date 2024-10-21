@@ -42,15 +42,18 @@ New_Q&A_Med_chat.ipynb is the main notbook file.
 
 ### Model Implementation
 
+New_Q&A_Med_chat.ipynb is the current notebook for testing purposes.  
 
-## Usage
+####Usage
 The project contains multiple Jupyter notebooks like Dr_chat_pre.ipynb and Pub_med_dr_chat.ipynb that allow you to run AI models on medical data.
 
 Datasets such as `pmc_dataset.csv` are included for analysis. Full datasets can be found on the following Google Drive links:
 
 * [ai_medical_dataset.zip](https://drive.google.com/file/d/1OK2njdhp7QMvFvydN_jm0K4Posv9yX_t/view?usp=sharing) - Contains a tab separated file with all of the medical data.
 
-You can customize and extend the chatbot to work with additional datasets or models.
+### Pipeline
+
+* We may customzize and extend the chatbot to work with additional datasets or models.
 
 ## Contributing
 We welcome contributions to improve the features and capabilities of Dr. Chats. Please submit a pull request or open an issue if you encounter bugs or have suggestions.
