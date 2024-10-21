@@ -1,10 +1,12 @@
 # Dr. Chats
 
+#### DISCLAIMER - This is a Beta test bot and not intended for Medical Diagnosis. Should you have any medical concerns, please contact your medical provider. 
+
 ## Overview
 Dr. Chats is an AI-driven chatbot that focuses on medical data analysis, specifically leveraging public datasets such as PubMed to provide insightful responses. It integrates AI techniques to help in healthcare, offering potential support for clinicians and researchers.
 
 ## Features
-- Chatbot capabilities using healthcare data (e.g., PubMed).
+- Chatbot capabilities using healthcare data (e.g., PubMed, Huggingface - AI Medical General Dataset).
 - Analysis of medical datasets including STI-related data and scientific literature.
 - Integration with pre-trained AI models to enhance conversational experience.
 
@@ -36,12 +38,21 @@ We welcome contributions to improve the features and capabilities of Dr. Chats. 
 ## License & References 
 
 1. The AI Medical General Dataset is licensed under the CC-BY 4.0 license
- @dataset{ai_medical_dataset,
+
+* @dataset{ai_medical_dataset,
   title = {AI Medical Dataset},
   author = {Ruslan Magana Vsevolodovna},
   year = {2023},
   url = {https://github.com/ruslanmv/ai-medical-chatbot},
 }
+
+2. PyMed Code (did not work)
+
+@dataset{Pubmed,
+  title = {PyMed-PubMed Access through Python},
+  author = {Gijs Wobben},
+  year = {2019},
+  url = {https://pypi.org/project/pymed/},
 
 
 
