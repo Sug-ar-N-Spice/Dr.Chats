@@ -33,8 +33,17 @@ You can customize and extend the chatbot to work with additional datasets or mod
 ## Contributing
 We welcome contributions to improve the features and capabilities of Dr. Chats. Please submit a pull request or open an issue if you encounter bugs or have suggestions.
 
-## License
-This project is licensed under the MIT License.
+## License & References 
+
+1. The AI Medical General Dataset is licensed under the CC-BY 4.0 license
+ @dataset{ai_medical_dataset,
+  title = {AI Medical Dataset},
+  author = {Ruslan Magana Vsevolodovna},
+  year = {2023},
+  url = {https://github.com/ruslanmv/ai-medical-chatbot},
+}
+
+
 
 ## Contact
 For questions or collaborations, please contact the maintainers via GitHub.
