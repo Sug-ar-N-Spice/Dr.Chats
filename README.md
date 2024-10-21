@@ -23,6 +23,22 @@ cd Dr.Chats
 ## Install dependencies: 
 Follow the package requirements in the Jupyter Notebooks (e.g., via pip or conda).
 
+### Model Implementation
+```python
+! pip install sacremoses
+! pip install transformers
+! pip install datasets
+! pip install torch
+```
+
+#### Libraries 
+1. Hugging Face
+2. Sentence Transformers
+3. AI Medical
+
+### Model Implementation
+
+
 ## Usage
 The project contains multiple Jupyter notebooks like Dr_chat_pre.ipynb and Pub_med_dr_chat.ipynb that allow you to run AI models on medical data.
 
@@ -35,6 +51,16 @@ You can customize and extend the chatbot to work with additional datasets or mod
 ## Contributing
 We welcome contributions to improve the features and capabilities of Dr. Chats. Please submit a pull request or open an issue if you encounter bugs or have suggestions.
 
+
+## Contact
+For questions or collaborations, please contact the maintainers via GitHub.
+
+* Ty - https://github.com/tyzwhitt
+* Jerome- https://github.com/exohuman 
+* Simon- https://github.com/Simonpnce57
+* Idowu- https://github.com/jubjam18
+* Patricia - https://github.com/Sug-ar-N-Spice
+  
 ## License & References 
 
 1. The AI Medical General Dataset is licensed under the CC-BY 4.0 license
@@ -71,13 +97,4 @@ We welcome contributions to improve the features and capabilities of Dr. Chats. 
   url = {https://pypi.org/project/pymed/},
 
 
-
-## Contact
-For questions or collaborations, please contact the maintainers via GitHub.
-
-* Ty - https://github.com/tyzwhitt
-* Jerome- https://github.com/exohuman 
-* Simon- https://github.com/Simonpnce57
-* Idowu- https://github.com/jubjam18
-* Patricia - https://github.com/Sug-ar-N-Spice
 
