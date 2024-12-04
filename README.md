@@ -53,7 +53,7 @@ Datasets such as `pmc_dataset.csv` are included for analysis. Full datasets can 
 
 ### Pipeline
 
-* We may customzize and extend the chatbot to work with additional datasets or models.
+* We may customize and extend the chatbot to work with additional datasets or models.
 
 ## Contributing
 We welcome contributions to improve the features and capabilities of Dr. Chats. Please submit a pull request or open an issue if you encounter bugs or have suggestions.
